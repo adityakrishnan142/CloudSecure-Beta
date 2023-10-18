@@ -15,7 +15,7 @@ To run this CFT template -
 
 [![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=Illumio-Beta-Demo-Simulation&templateURL=https://cft-illumio-simulation.s3.amazonaws.com/Illumio-Beta-Demo-Simulation.yaml) 
 
-The AWS CloudFormation template (cloudformation-template.yml) included in this project creates various AWS resources, including:
+The AWS CloudFormation template (Illumio-Beta-Demo-Simulation.yaml) included in this project creates various AWS resources, including:
 
 - **Virtual Private Cloud(VPC)**
 - **Subnets**
