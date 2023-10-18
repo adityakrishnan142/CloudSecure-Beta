@@ -10,8 +10,8 @@ Microsegmentation is a critical aspect of modern network security, and Illumio p
 
 To run this CFT template - 
 
-1. Please make sure you are logged into your AWS account in **US-East-1** region
-2. Click on the launch stack button below to open the AWS cloudformation console and create a new stack
+1. Click on the launch stack button below to open the AWS cloudformation console and create a new stack
+2. The template will take you to the cloudformation console and create the stack in **US-East-1** region
 
 [![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=Illumio-Beta-Demo-Simulation&templateURL=https://cft-illumio-simulation.s3.amazonaws.com/Illumio-Beta-Demo-Simulation.yaml) 
 
