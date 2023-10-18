@@ -27,7 +27,4 @@ To run this CFT template -
 1. Please make sure you are logged into your AWS account in **US-East-1** region
 2. Click on the launch stack button below to open the AWS cloudformation console and create a new stack
 
-[![image](https://github.com/adityakrishnan142/CloudSecure-Beta/assets/56053567/92b6adb3-d96d-44fa-aae7-f0bd524a17c5)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=Illumio-Beta-Demo-Simulation&templateURL=https://cft-illumio-simulation.s3.amazonaws.com/Illumio-Beta-Demo-Simulation.yaml)
-
-
-
+[![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=Illumio-Beta-Demo-Simulation&templateURL=https://cft-illumio-simulation.s3.amazonaws.com/Illumio-Beta-Demo-Simulation.yaml) 
