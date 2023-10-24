@@ -29,4 +29,11 @@ In our scenario, we have defined 3 subnets (prod, dev and staging) in a single V
 
 **Note**: Please go through the beta runbook provided to you to get a detailed overview of cloudsecure and its capabilities. 
 
+## Cleaning Up
+
+To tear down the demo simulation app, follow these steps:
+
+1. Log into the AWS CloudFormation Console and find the stack you created for the demo app
+2. Delete the stack
+
 
